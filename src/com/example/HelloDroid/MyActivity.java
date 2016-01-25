@@ -37,17 +37,21 @@ public class MyActivity extends Activity {
     }
 
     private void tapSox() {
-        ++counter;
+        message.setText(getDisplayString(++counter));
+    }
+
+    private String getDisplayString(int count) {
         String temp;
 
-        switch (counter) {
+        switch (count) {
             case 1:
                 temp = "Hey!"; break;
             case 2:
                 temp = "Watch it buddy!"; break;
             default:
-                temp = "That's " + counter + " times!  I said no touchy!";
+                temp = "That's " + count + " times!  I said no touchy!";
         }
-        message.setText(temp);
+
+        return temp;
     }
 }
