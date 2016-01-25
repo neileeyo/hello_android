@@ -23,11 +23,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/example/HelloDroid/MyActivity.java" line="29" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c8ea8d3-3421-4b79-bcd5-4bcc0811630a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/com/example/HelloDroid/BuildConfig.java" afterPath="$PROJECT_DIR$/gen/com/example/HelloDroid/BuildConfig.java" />
-    </list>
+    <list default="true" id="9c8ea8d3-3421-4b79-bcd5-4bcc0811630a" name="Default" comment="" />
     <ignored path="HelloDroid.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
